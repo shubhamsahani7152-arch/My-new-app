@@ -1,4 +1,4 @@
-[app]
+app]
 title = Meri Jankari App
 package.name = merijankari
 package.domain = org.example
@@ -11,3 +11,4 @@ android.permissions = INTERNET
 
 log_level = 2
 warn_root = 1
+
