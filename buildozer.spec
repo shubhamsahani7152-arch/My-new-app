@@ -1,4 +1,4 @@
-here[app]
+[app]
 
 title = Meri Jankari App
 package.name = merijankari
