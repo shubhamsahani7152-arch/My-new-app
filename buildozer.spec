@@ -1,5 +1,4 @@
 [app]
-
 title = Meri Jankari App
 package.name = merijankari
 package.domain = org.example
